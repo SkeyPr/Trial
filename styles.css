@@ -4,11 +4,11 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
   overflow-x: hidden;
-  background-color: red;
+  background-color: yellowgreen;
 }
 
 .header {
-  background-color: red;
+  background-color: blue;
   text-align: center;
   padding: 20px;
 }
