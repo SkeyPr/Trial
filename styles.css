@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: "Arial";
   overflow-x: hidden;
   background-color: yellowgreen;
 }
@@ -11,4 +11,9 @@
   background-color: blue;
   text-align: center;
   padding: 20px;
+  font-family: "Poppins";
+}
+
+h1 {
+  color: red;
 }
